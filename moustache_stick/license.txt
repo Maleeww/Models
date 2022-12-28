@@ -1,0 +1,11 @@
+Model Information:
+* title:	Moustache Stick
+* source:	https://sketchfab.com/3d-models/moustache-stick-e1c67c326e2c4d62b0bfdeb53008a31d
+* author:	taaaylor4really (https://sketchfab.com/taaaylor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Moustache Stick" (https://sketchfab.com/3d-models/moustache-stick-e1c67c326e2c4d62b0bfdeb53008a31d) by taaaylor4really (https://sketchfab.com/taaaylor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
