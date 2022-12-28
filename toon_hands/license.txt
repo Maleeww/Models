@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toon Hands
+* source:	https://sketchfab.com/3d-models/toon-hands-da26802b7250471593db78919a19950a
+* author:	CzernO (https://sketchfab.com/czernobog)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toon Hands" (https://sketchfab.com/3d-models/toon-hands-da26802b7250471593db78919a19950a) by CzernO (https://sketchfab.com/czernobog) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
