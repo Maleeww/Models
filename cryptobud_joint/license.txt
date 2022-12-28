@@ -1,0 +1,11 @@
+Model Information:
+* title:	CryptoBud Joint
+* source:	https://sketchfab.com/3d-models/cryptobud-joint-b2b57619fe3244d4aafbf1e8639b418f
+* author:	CryptoBud Inc. (https://sketchfab.com/finesse.dave)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CryptoBud Joint" (https://sketchfab.com/3d-models/cryptobud-joint-b2b57619fe3244d4aafbf1e8639b418f) by CryptoBud Inc. (https://sketchfab.com/finesse.dave) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
