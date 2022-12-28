@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kufia
+* source:	https://sketchfab.com/3d-models/kufia-93e16e77fc0a47138b2656f61fefe8eb
+* author:	dimamozby (https://sketchfab.com/dimamozby)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kufia" (https://sketchfab.com/3d-models/kufia-93e16e77fc0a47138b2656f61fefe8eb) by dimamozby (https://sketchfab.com/dimamozby) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
